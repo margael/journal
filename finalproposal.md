@@ -1,0 +1,8 @@
+
+Margael St Juste
+April 06, 2020
+Software Design Lab
+final project proposal
+
+for my final project, I would like to propose building  static site to share the work that I do in the community partnership program that I oversee. Given recent times and how the school year has been cut abruptly, so has my interaction with the 140 students that I normally interact with in the program at my charter school site. Many of them will be moving on to high school without a chance to conclude their middle school experience. I would like to build a static site to share my experience over the last year with my students and also to share the memories that my students created with one another as we built our little community. This is not something I am just building for me. Once I build this site, I would like to share it with my students in our final newsletter of the year to give us a chance to reconnect over the great things we did and created together before the coronavirus changed everything. 
+I think in this moment in time, these social memories are precious. Morever, one of the goals that I set at the beginning of this class is to learn enough skills to build a site. I have definitely learned a lot so far but this projects gives a change to challenge myself even more. Ashley Rojas and I are actually part of another project in our DH praxis course, where we're building a digital reconstruction database of archeological sites in peril. As a collaborator on that project, I've been very impressed where we've come so far in building the database. I certainly want to challenge myself to meet my most important goal.
