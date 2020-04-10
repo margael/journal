@@ -1,0 +1,11 @@
+Margael St Juste
+
+software desgin lab
+
+blog #2
+
+This week was really about understand what the process of softwarre design entails. What does it all mean to code and build and develop software? and how is it done? I learned A LOT through the readings this week. I certainly gained a new appreciation for what this field does and how i see myself in it. It seems the more I learm , the more comfortable I feel with my skills, and the more I want to learn. 
+
+As someone with a humanistic lens, I found the piece Federick Brooks piece "Design of Design" really insightful in terms of thinking of the final object as distinct from the process which created it. The process of designing is as critical as the concrete object that results from it. But often we deal with the concrete without unpacking the abstract and complex processes of design. So often we are evaluated on what we produce without any acknowledgment of how it was produced that we neglect to see the process as valuable. Brooks found a universality across industries presenting the design process as a tree-like structure where each fork in the treee represents a decision point. The most essential components of the design should be placed closest to the root and those decisions made first in the process. The less essential components should be place in the outer branches and those decisions made last. because of the tree like structure, it is possible to locate where a decision was made and be walked back from the outer branches into the inner branches.
+
+I also delved into the readings about plaintext and the breakdown of source code and binary code, markup language tags, encoding, encrypting, etc. I also  liked the introduction to markdown as a plaintext syntax . However I thought it a bit prohibitive to have to download a number of software on my computer that I'm not sure I'll use much in this class. I would rather stick with plaintext that doesn't require such upfront costs. I want to economize the space on my computer since I don't have an external storage.
