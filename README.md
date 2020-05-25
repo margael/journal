@@ -34,7 +34,7 @@ The website has three pages and 3 blog posts and and embedded twitter feed. The 
     <p> fig 5. This is a screen capture of the post title Middle School Memories
     <img src="future.jpg" style="width:600px;height:auto;border-radius:15px; opacity:.6;"> </p>
     <p> fig 6. This is a screen capture of the about post titled The Activities
-    <img src="activites.jpg" style="width:600px;height:auto;border-radius:15px; opacity:.6;"> </p>
+    <img src="activities.jpg" style="width:600px;height:auto;border-radius:15px; opacity:.6;"> </p>
     <p> fig 7. This is a screen capture of the footer
     <img src="footer.jpg" style="width:600px;height:auto;border-radius:15px; opacity:.6;"> </p>
     <p> fig 8. This is a screen capture of the post listing
